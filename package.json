@@ -10,7 +10,7 @@
     "vuepress": "^1.9.10"
   },
   "scripts": {
-    "docs:dev": "set NODE_OPTIONS=--openssl-legacy-provider & vuepress devd .",
+    "docs:dev": "set NODE_OPTIONS=--openssl-legacy-provider & vuepress dev .",
     "docs:build": "set NODE_OPTIONS=--openssl-legacy-provider & vuepress build .",
     "serve": "export NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve",
     "build": "export NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service build"
