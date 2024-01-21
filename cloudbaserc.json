@@ -1,0 +1,19 @@
+{
+    "envId": "ezreal-code-doc-0guti1ctfb6b5867",
+    "version": "2.0",
+    "$schema": "https://framework-1258016615.tcloudbaseapp.com/schema/latest.json",
+    "functionRoot": "./functions",
+    "functions": [],
+    "framework": {
+        "name": "ezreal-code-doc",
+        "plugins": {
+            "vuepress": {
+                "use": "@cloudbase/framework-plugin-website",
+                "inputs": {
+                    "buildCommand": "npm run docs:build",
+                    "outputPath": ".vuepress/dist"
+                }
+            }
+        }
+    }
+}
