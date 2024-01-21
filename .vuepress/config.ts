@@ -2,7 +2,7 @@ import sidebar from "./sidebar";
 import navbar from "./navbar";
 
 module.exports = {
-    title: "Ezreal-是时候表演正在的技术了",
+    title: "是时候表演真正的技术了",
     base: '/', // 使用相对路径，读取相对路径下的静态文件
     head: [
         ['link', {rel: 'icon', href: '/logo.png'}],
