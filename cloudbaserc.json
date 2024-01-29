@@ -1,5 +1,6 @@
 {
-    "envId": "ezreal-code-doc-0guti1ctfb6b5867",
+    "envId": "ezreal-code-doc-7grf3ots57bf6389",
+    "region": "ap-guangzhou",
     "version": "2.0",
     "$schema": "https://framework-1258016615.tcloudbaseapp.com/schema/latest.json",
     "functionRoot": "./functions",
